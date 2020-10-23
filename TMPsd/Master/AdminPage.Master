@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminPage.master.cs" Inherits="TMPsd.Master.AdminPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>BooKVendor</title>
+    <link rel="stylesheet" type="text/css" href="../Style/AdminPageStyle.css" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <nav>
+            <p>BooKVendor</p>
+            <ul>
+                <li><a href="../Views/AdminHome.aspx">Home</a></li>
+                <li><a href="../Views/AdminBook.aspx">Books</a>
+                    <ul>
+                        <li><a href="../Views/InsertBook.aspx">Insert Book</a></li>
+                        <li><a href="../Views/UpdateBook.aspx">Update Book</a></li>
+                    </ul>
+                </li>
+                <li><a href="../Views/AdminGenre.aspx">Genre</a>
+                     <ul>
+                         <li><a href="../Views/InsertGenre.aspx">Insert Genre</a></li>
+                         <li><a href="../Views/UpdateGenre.aspx">Update Genre</a></li>
+                     </ul>
+                 </li>
+                <li><a href="../Views/AdminViewUser.aspx">Users</a></li>
+                <li><a href="../Views/AdminProfile.aspx">Profile</a>
+                    <ul>
+                        <li><a href="../Views/AdminUpdateProfile.aspx">Update Profile</a></li>
+                        <li><a href="../Views/AdminChangePassword.aspx">Change Password</a></li>
+                    </ul>
+                </li>
+                <li class="LogoutButton"><asp:LinkButton ID="LogoutBtn" runat="server" onclick="LogoutBtn_Click" CausesValidation="False">Logout</asp:LinkButton></li>
+            </ul>
+        </nav>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    </div>
+    </form>
+</body>
+
+</html>

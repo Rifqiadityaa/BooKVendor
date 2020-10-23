@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="GuestPage.master.cs" Inherits="TMPsd.Master.GuestPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>BooKVendor</title>
+    <link rel="stylesheet" type="text/css" href="../Style/GuestPageStyle.css" />
+    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <nav>
+            <p>BooKVendor</p>
+            <ul>
+                <li class="LeftFirst"><a href="../Views/GuestLogin.aspx">Login</a></li>
+                <li class="Left"><a href="../Views/GuestRegister.aspx">Register</a></li>
+            </ul>
+        </nav>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    </div>
+    </form>
+</body>
+</html>

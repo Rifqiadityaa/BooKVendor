@@ -1,0 +1,219 @@
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\TMPsd.dll.config
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\TMPsd.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\TMPsd.pdb
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\obj\Debug\TMPsd.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\obj\Debug\TMPsd.dll
+c:\users\user\documents\visual studio 2015\Projects\TMPsd\TMPsd\obj\Debug\TMPsd.pdb
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\TMPsd.dll.config
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\TMPsd.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\TMPsd.pdb
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\EntityFramework.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\EntityFramework.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\obj\Debug\TMPsd.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\obj\Debug\TMPsd.dll
+C:\Users\USER\Desktop\TMPsd_backup\TMPsd\obj\Debug\TMPsd.pdb
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\TMPsd.dll.config
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\TMPsd.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\TMPsd.pdb
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\EntityFramework.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\EntityFramework.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\obj\Debug\TMPsd.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\obj\Debug\TMPsd.dll
+C:\Users\USER\Desktop\TMPsd_backup - Copy (2)\TMPsd\obj\Debug\TMPsd.pdb
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\TMPsd.dll.config
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\TMPsd.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\TMPsd.pdb
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Project psd main\TMPsd\obj\Debug\TMPsd.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Project psd main\TMPsd\obj\Debug\TMPsd.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\obj\Debug\TMPsd.pdb
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.Web.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\Project psd main\TMPsd\bin\stdole.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\TMPsd.dll.config
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\TMPsd.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\TMPsd.pdb
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.Shared.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.Web.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\EntityFramework.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\stdole.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\EntityFramework.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\obj\Debug\TMPsd.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\obj\Debug\TMPsd.pdb
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\kuliah\project portfolio\Project psd main\TMPsd\obj\Debug\TMPsd.csprojResolveAssemblyReference.cache
